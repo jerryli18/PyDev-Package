@@ -1,0 +1,5 @@
+Jerry Li
+In order to find out if something is in Pig-Latin, one could test if the Pig-Latin endings are in the word. To test
+if something is in ROT13, you could import a dictionary to see if the words are in there. Using conditional statements, 
+one could test if it's in one language, then call upon that language's transform function from Transforms (in Pig-Latin, 
+call unpigify from Transforms; in ROT13, call ROT13 from Transforms).

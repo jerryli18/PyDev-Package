@@ -1,0 +1,172 @@
+Group 1:
+Zhang  Jimmy
+Lipscomb Max
+Abelson  Adam
+
+Group 2:
+Higuera  Kimberly
+Yang  Eric
+Mooring  Zach
+
+Group 3:
+Li  Yunyi
+Marion  Michael
+Qian  Zongjin
+
+Group 4:
+Peralta  Amanda
+Tepera  Brian
+Deng  Dan
+
+Group 5:
+Vanderslice Paul
+Britto  Christian
+Marcus  Gillian
+
+Group 6:
+Moran  Kyle
+Moeller  Ellen
+Knight  Stefan
+
+Group 7:
+Allen  Mooki
+Mercola  Jack
+Ellis  Chris
+
+Group 8:
+Glusker  Riley
+Lin  Abigail
+Raju  Kannan
+
+Group 9:
+Dannenberg Paul
+Hoerauf  Lizzie
+McCarty  Anne
+
+Group 10:
+O'Keefe  Dan
+Shapiro  Heather
+Greenspan Jenna
+
+Group 11:
+Ni  Alan
+Leu  Kevin
+Summerville Justin
+
+Group 12:
+Westphal Ryan
+Akim Meghan
+Bradford Will
+
+Group 13:
+Ren  Michael
+Hopping  Zach
+Cohen  Brittany
+
+Group 14:
+Taylor  Charles
+Crane  Andrew
+Liu  David
+
+Group 15:
+Dixon  Greg
+Jenke  Libby
+Reich  Chris
+
+Group 16:
+Mayer  Carolyn
+Cymrot  Cortnay-Beth
+Zuo  Jeff
+
+Group 17:
+Stan  Diana
+Tyler  Matthew
+Varghese Arpita
+
+Group 18:
+Jones  Steven
+Lee  Jonathan
+Tello  Andres
+
+Group 19:
+Krolik  Aaron
+Du Plessix Derek
+Lee  Nathan
+
+Group 20:
+Chen  Connie
+Chung  Howard
+French  Tim
+
+Group 21:
+Huerta  Samantha
+Kim  Linda
+Kaplan  Evan
+
+Group 22:
+Kim  Joanna
+Shroads  Emily
+Lee  Jung Min
+
+Group 23:
+Waldorf  KellyNoel
+Tseng  Chris
+Roeder  Daniel
+
+Group 24:
+Le  David
+Rabellino Alessandra
+Savage  Nicole
+
+Group 25:
+Chen  Yifei
+Niou  Ann
+Vogelsong Michael
+
+Group 26:
+Therattil Tony
+Elmore  Hanna
+Jazwiecki Elizabeth
+
+Group 27:
+Sivaraj  Krishan
+Graff  Alex
+Krishnan Jay
+
+Group 28:
+Arnold Paige
+Beamon  Deja
+Petrilak Tommy
+
+Group 29:
+Johnson  Kenny
+Liu  Ryan
+Ding  Daniel
+
+Group 30:
+Picard  Eric
+Rogers  Spencer
+Wareham  Sean
+
+Group 31:
+Sturman  Kelsey
+Hasse  Marie-Emily
+Bosonetto Paul
+
+Group 32:
+Schack  Sam
+Leeds  Jim
+Wei  Jimmy
+
+Group 33:
+Wang  Sean
+Cotton  Keegan
+DiClemente Will
+
+Group 34:
+Mekjian  John
+Bellis  Nathan
+Xu  Rui
+
+Group 35:
+Knowles  William

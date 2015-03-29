@@ -1,0 +1,12 @@
+"The cat in the hat comes back" 5 5
+"Duke beat UNC" 3 3
+"Bob Bell blased blue balls" 1 1
+"IBM" 1 1
+"" 0 0
+"a b c" 3 3
+"a A b B c C d D e E f F" 6 6
+"abcdefghijklmnopqrstuvwxyz" 1 1
+"a b c d e f g h i j k l m n o p q r s t u v w x y z" 26 26
+"a b c d e f g h i j k l m n o p q r s t u v w x y z a b c d e f g h i j k l m n o p q r s t u v w x y z a b c d e f g h i j k l m n o p q r s t u v w x y z" 26 26
+"Once upon a time there was a story about a little frog who lived in a pond" 10 10 
+"apple orange ansise octopus ocelot ant Aaron Adam Oscar" 2 2

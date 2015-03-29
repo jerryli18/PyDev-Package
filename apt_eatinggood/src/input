@@ -1,0 +1,21 @@
+["Sue:Elmos"], "Elmos" 1 1
+["Sue:Elmos"], "Guglhupf" 0 0
+["Sue:Elmos", "Sue:Elmos", "Sue:Elmos"], "Elmos" 1 1
+["Sue:Sushi Love", "Sue:Elmos", "Sue:Sushi Love"], "Sushi Love" 1 1
+["Sue:Sushi Love", "Sue:Elmos", "Sue:Sushi Love", "Mo:Sushi Love", "Sue:Elmos", "Mo:Sushi Love"], "Sushi Love" 2 2
+["Sue:Sushi Love", "Sue:Elmos", "Rui:Sushi Love", "Mo:Sushi Love", "Sue:Elmos", "Mo:Sushi Love"], "Sushi Love" 3 3
+[], "Sushi Love" 0 0 
+["Sue:Elmos", "Joe:Mad Hatter", "Sue:Mad Hatter", "Nora:Elmos", "Sue:Elmos", "Joe:Mad Hatter", "Sue:Mad Hatter", "Nora:Elmos","Nora:Sitar", "Joe:Elmos","Sue:Elmos"], "Elmos" 3 3
+["Sue:Elmos", "Joe:Mad Hatter", "Sue:Mad Hatter", "Nora:Elmos", "Sue:Elmos", "Joe:Mad Hatter", "Sue:Mad Hatter", "Nora:Elmos","Nora:Sitar", "Joe:Elmos","Sue:Elmos"], "Mad Hatter" 2 2
+["Sue:Elmos", "Joe:Mad Hatter", "Sue:Mad Hatter", "Nora:Elmos", "Sue:Elmos", "Joe:Mad Hatter", "Sue:Mad Hatter", "Nora:Elmos","Nora:Sitar", "Joe:Elmos","Sue:Elmos"], "Sitar" 1 1
+["Sue:Elmos", "Joe:Mad Hatter", "Sue:Mad Hatter"], "Elmos" 1 1
+["Sue:Elmos", "Joe:Mad Hatter", "Sue:Mad Hatter"], "Mad Hatter" 2 2
+["Sue:Elmos", "Joe:Mad Hatter", "Sue:Mad Hatter"], "Sitar" 0 0
+["Sue:Elmos", "Joe:Mad Hatter", "Sue:Mad Hatter", "Bill:Elmos", "Owen:Elmos", "Joe:Mad Hatter", "Sue:Mad Hatter", "Nora:Elmos", "Nora:Sitar", "Joe:Elmos","Mary:Sitar"], "Elmos" 5 5
+["Sue:Elmos", "Joe:Mad Hatter", "Sue:Mad Hatter", "Bill:Elmos", "Owen:Elmos", "Joe:Mad Hatter", "Sue:Mad Hatter", "Nora:Elmos", "Nora:Sitar", "Joe:Elmos","Mary:Sitar"], "Mad Hatter" 2 2
+["Sue:Elmos", "Joe:Mad Hatter", "Sue:Mad Hatter", "Bill:Elmos", "Owen:Elmos", "Joe:Mad Hatter", "Sue:Mad Hatter", "Nora:Elmos", "Nora:Sitar", "Joe:Elmos","Mary:Sitar"], "Sitar" 2 2
+["Sue:Elmos", "Joe:Elmos", "Jie:Elmos", "Nora:Elmos", "Sue:Elmos", "Joe:Elmos", "Xie:Elmos", "Nora:Elmos","Nora:Elmos", "Joe:Elmos","Mary:Elmos"], "Elmos" 6 6
+["A:W", "B:W", "C:W", "C:W", "C:X", "C:Y", "D:W", "A:W", "D:X", "D:Y", "D:Z", "B:W", "C:W", "C:W", "C:X", "C:Y","B:W", "C:W", "C:W", "C:X", "C:Y"], "W" 4 4
+["A:W", "B:W", "C:W", "C:W", "C:X", "C:Y", "D:W", "A:W", "D:X", "D:Y", "D:Z", "B:W", "C:W", "C:W", "C:X", "C:Y","B:W", "C:W", "C:W", "C:X", "C:Y"], "X" 2 2
+["A:W", "B:W", "C:W", "C:W", "C:X", "C:Y", "D:W", "A:W", "D:X", "D:Y", "D:Z", "B:W", "C:W", "C:W", "C:X", "C:Y","B:W", "C:W", "C:W", "C:X", "C:Y"], "Y" 2 2
+["A:W", "B:W", "C:W", "C:W", "C:X", "C:Y", "D:W", "A:W", "D:X", "D:Y", "D:Z", "B:W", "C:W", "C:W", "C:X", "C:Y","B:W", "C:W", "C:W", "C:X", "C:Y"], "Z" 1 1

@@ -1,0 +1,13 @@
+Jerry Li
+1/24=1/27
+4 hours
+Dylan Gambardella, Nikhil Perincherry
+Favorite function:
+def hair_curls():
+#this returns hair curls
+    a1 = 15*"@"
+    a2 = 15*"@"
+    a3 = 15*"@"
+    return a1+"\n"+a2+"\n"+a3
+    
+This was a fun assignment and I really got familiar with some of the coding norms.
