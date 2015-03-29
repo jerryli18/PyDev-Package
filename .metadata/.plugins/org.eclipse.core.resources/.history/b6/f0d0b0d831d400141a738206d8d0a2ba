@@ -1,0 +1,124 @@
+'''
+Created on Mar 26, 2015
+
+@author: Jerry
+'''
+START_CODON = 'atg'
+STOP_CODONS = [ 'taa', 'tag', 'tga' ]
+
+# these next two lists are meant to be used together,
+#   i.e., the index of a codon in the first list matches
+#         its corresponding amino acid in the second list
+# they are taken from this web site:
+#   http://en.wikipedia.org/wiki/DNA_codon_table
+# and are intended to help you with the problem, 
+# so you do not have to hand code the translation yourself
+CODONS = [
+  'gct', 'gcc', 'gca', 'gcg',
+  'tgt', 'tgc', 
+  'gat', 'gac',
+  'gaa', 'gag', 
+  'ttt', 'ttc', 
+  'ggt', 'ggc', 'gga', 'ggg',
+  'cat', 'cac',
+  'att', 'atc', 'ata',
+  'aaa', 'aag',
+  'ctt', 'ctc', 'cta', 'ctg', 'tta', 'ttg',
+  'atg',
+  'aat', 'aac',
+  'cct', 'ccc', 'cca', 'ccg',
+  'caa', 'cag',
+  'cgt', 'cgc', 'cga', 'cgg', 'aga', 'agg',
+  'agt', 'agc', 'tct', 'tcc', 'tca', 'tcg', 
+  'act', 'acc', 'aca', 'acg',
+  'gtt', 'gtc', 'gta', 'gtg',
+  'tgg',
+  'tat', 'tac',
+]
+AMINO_ACIDS = [ 
+  'A', 'A', 'A', 'A', 
+  'C', 'C',
+  'D', 'D', 
+  'E', 'E', 
+  'F', 'F',
+  'G', 'G', 'G', 'G',
+  'H', 'H',
+  'I', 'I', 'I',
+  'K', 'K', 
+  'L', 'L', 'L', 'L', 'L', 'L',
+  'M', 
+  'N', 'N', 
+  'P', 'P', 'P', 'P',
+  'Q', 'Q',
+  'R', 'R', 'R', 'R', 'R', 'R',
+  'S', 'S',  'S', 'S', 'S', 'S',
+  'T', 'T', 'T', 'T', 
+  'V', 'V', 'V', 'V', 
+  'W',
+  'Y', 'Y', 
+]
+
+
+def findRegion(dna):
+    a = "atg"
+    b = ["taa", "tag", "tga"]
+    position = 0
+    if dna.find(a) != -1:
+        dna = dna[(dna.find(a) + 3): ]
+    else:
+        return ""
+    if dna.rfind("taa") != -1 and len(dna[: dna.rfind("taa")%3 == 0:
+        
+
+def DNA_protein(substring, codon_aminoacid):
+    position = 0
+    protein = ""
+    for base in substring:
+        if position%3 == 0 and codon_aminoacid.get(substring[position:position+3]) != None:
+            protein += codon_aminoacid.get(substring[position:position+3])
+        position += 1
+    return protein 
+
+def reversecomp(dna):
+    """
+    return String that is the reverse
+    complement of the String parameter dna 
+    """
+    
+    a = []
+    for codon in dna:
+        if codon == 'a':
+            a.append('t')
+        if codon == 't':
+            a.append('a')
+        if codon == ('c'):
+            a.append('g')
+        if codon == ('g'):
+            a.append('c')
+    a.reverse()
+    return ''.join(a)     
+
+def translateDNAtoProtein (dna):
+    """
+    given a string composed only of lowercase letters 'gcta', 
+    return a string of uppercase letters that represents the 
+    longest protein found first within that string or its 
+    reverse complement, or the empty string if no protein can
+    be found
+    """
+        # position = 0
+    # codon_aminoacid = {}
+    # for codon in CODONS:
+    #     codon_aminoacid[codon] = AMINO_ACIDS[position]
+    #     position += 1
+    codon_aminoacid = dict(zip(CODONS, AMINO_ACIDS))
+    f = findRegion(dna)
+    g = findRegion(reversecomp(dna))
+    a = DNA_protein(f, codon_aminoacid)
+    b = DNA_protein(g, codon_aminoacid)
+    if len(a) > len(b):
+        return a
+    else:
+        return b
+    # TODO: complete this function
+    return ""

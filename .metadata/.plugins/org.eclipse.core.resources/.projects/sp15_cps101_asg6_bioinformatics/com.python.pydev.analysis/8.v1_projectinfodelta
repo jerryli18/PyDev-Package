@@ -1,0 +1,12 @@
+INSTUPBioinformatics2
+C:\Users\Jerry\workspace\sp15_cps101_asg6_bioinformatics\src\Bioinformatics2.py
+INFOS:&&3|1|2|0&&3|3|2|0&&3|4|2|0&&3|5|2|0&&2|6|2|0&&2|7|2|0&&2|8|2|0&&2|9|2|0
+STOP_CODONS=3
+CODONS=4
+reversecomp=8
+START_CODON=1
+AMINO_ACIDS=5
+Bioinformatics2=2
+translateDNAtoProtein=9
+findRegion=6
+DNA_protein=7

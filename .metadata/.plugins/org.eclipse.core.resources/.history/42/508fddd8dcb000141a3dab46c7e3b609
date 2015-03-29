@@ -1,0 +1,42 @@
+'''
+Created on Feb 9, 2015
+
+@author: Jerry
+'''
+import Transforms
+
+def recognize(words):
+    a = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz"
+    b = "NOPQRSTUVWXYZABCDEFGHIJKLMnopqrstuvwxyzabcdefghijklm"
+    final = ""
+    dictionary = open("../data/dictionary.txt")
+    x = []
+    for line in dictionary:
+        x.append(line)
+        
+      
+    for s in words:
+        i = a.find(s)
+        final = final + b[i]
+    
+    count = 0
+    count2 = 0
+    for word in words:
+        if word.endswith("ay"):
+            count += 1
+        elif final in x:
+            count2 += 1
+    if count == len(words):
+        for word in words:
+            Transforms.transform_unpigify(word)
+        return "unpigify"  
+    elif final in x:
+        count2
+        for 
+        return final
+        return "un-rot13"
+    else:
+        return "none"
+   
+
+        

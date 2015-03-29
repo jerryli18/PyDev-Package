@@ -1,0 +1,21 @@
+'''
+Created on Mar 24, 2015
+
+@author: Jerry
+'''
+def reversecomp(dna):
+    """
+    return String that is the reverse
+    complement of the String parameter dna 
+    """
+    
+    comp = []
+    for nucleotide in dna:
+        if nucleotide == 'a':
+            comp.append('t')
+        if nucleotide == 't':
+            comp.append('a')
+        if nucleotide == ('c'):
+            comp.append('g')
+        if nucleotide == ('g'):
+            

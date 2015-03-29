@@ -1,0 +1,5 @@
+MODULES_MANAGER_V2
+ETester|C:\Users\Jerry\workspace\apt_worldcomposition\src\ETester.py
+Parse|C:\Users\Jerry\workspace\apt_worldcomposition\src\Parse.py
+StoppableThread|C:\Users\Jerry\workspace\apt_worldcomposition\src\StoppableThread.py
+WordCompositionGame|C:\Users\Jerry\workspace\apt_worldcomposition\src\WordCompositionGame.py

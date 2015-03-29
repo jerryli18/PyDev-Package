@@ -1,0 +1,21 @@
+-- VERSION_4
+-- START DISKCACHE
+C:\Users\Jerry\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\spring15_compsci101_lab5\com.python.pydev.analysis\v2_indexcache
+loops|1424378251329|C:\Users\Jerry\workspace\spring15_compsci101_lab5\src\loops.py
+OneDWalker|1424663907009|C:\Users\Jerry\workspace\spring15_compsci101_lab5\src\OneDWalker.py
+-- END DISKCACHE
+-- START DICTIONARY
+2
+1=loops
+2=OneDWalker
+-- END DICTIONARY
+-- START TREE 1
+4
+dig|1|digitsSmallerThanSum!10@
+fin|1|findFirst!10@
+tri|1|trials!18@
+wal|1|walk!18@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

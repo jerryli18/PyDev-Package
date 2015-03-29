@@ -1,0 +1,19 @@
+'''
+Created on Mar 24, 2015
+
+@author: Jerry
+'''
+
+def check(word):
+    """
+    return String based on parameter
+    word, a String
+    """
+    while len(word) > 0:
+        if word[0:2] == 'pi' or word[0:2] == 'ka':
+            word.remove[0:2]
+        if word[0:3] == 'chu':
+            word.remove[0:3]
+        else:
+            return "NO"
+    return "YES"

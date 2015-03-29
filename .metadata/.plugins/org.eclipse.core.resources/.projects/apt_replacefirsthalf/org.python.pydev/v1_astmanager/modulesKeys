@@ -1,0 +1,5 @@
+MODULES_MANAGER_V2
+ETester|C:\Users\Jerry\workspace\apt_replacefirsthalf\src\ETester.py
+Parse|C:\Users\Jerry\workspace\apt_replacefirsthalf\src\Parse.py
+ReplaceFirstHalf|C:\Users\Jerry\workspace\apt_replacefirsthalf\src\ReplaceFirstHalf.py
+StoppableThread|C:\Users\Jerry\workspace\apt_replacefirsthalf\src\StoppableThread.py

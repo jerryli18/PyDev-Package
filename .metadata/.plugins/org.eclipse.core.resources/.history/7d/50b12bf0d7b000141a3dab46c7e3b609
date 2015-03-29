@@ -1,0 +1,44 @@
+'''
+Created on Feb 9, 2015
+
+@author: Jerry
+'''
+from win32com.servers.dictionary import DictionaryPolicy
+a = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz"
+b = "NOPQRSTUVWXYZABCDEFGHIJKLMnopqrstuvwxyzabcdefghijklm"
+final = ""
+for s in word:
+    i = a.find(s)
+final = final + b[i]
+    return final
+def recognize(words):
+    count = 0
+    for word in words:
+        if word.endswith("ay"):
+            count += 1
+    if count == len(words):
+        def vowel(word):
+            if "a" in word:
+                return True
+            if "e" in word:
+                return True
+            if "i" in word:
+                return True
+            if "o" in word:
+                return True
+            if "u" in word:
+                return True
+        if "way" in (word):
+            return word[0:-4]
+        elif word[-4] == "q":
+            return "qu"+ word[0:-5]
+        else:
+            a = word.find("-")
+            b = a+1
+            return word[b:-2]+ word[0:a]
+        return "unpigify"
+   
+    elif final == list(DictionaryPolicy):
+    
+    if words.endswith("-ay"):
+        

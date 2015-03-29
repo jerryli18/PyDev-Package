@@ -1,0 +1,24 @@
+'''
+Created on Mar 24, 2015
+
+@author: Jerry
+'''
+
+        
+def findRegion(dna):
+    startcodon = "atg"
+    stopcodon = ["taa", "tag", "tga"]
+    position = 0
+    if dna.find(startcodon) != -1:
+        dna = dna[(dna.find(startcodon) + 3): ]
+    else:
+        return ""
+    for nucleobase in dna:
+        CODONS_YO = ""
+        if position % 3 == 0 and dna[position:position + 3] in stopcodon:
+            CODONS_YO = dna[ :position]
+        else:
+            position += 1
+    return CODONS_YO
+
+        

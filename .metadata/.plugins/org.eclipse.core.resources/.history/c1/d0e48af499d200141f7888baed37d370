@@ -1,0 +1,48 @@
+'''
+Created on Mar 24, 2015
+
+@author: Jerry
+'''
+def findRegion(dna):
+    """
+    dna is a string of dna. 
+    Return the first valid protein-coding region.
+    """
+    a = []
+    START_CODON = 'atg'
+    STOP_CODONS = [ 'taa', 'tag', 'tga' ]
+    if START_CODON in dna:
+        if STOP_CODONS[0] in dna:
+            a.append(dna[START_CODON   :STOP_CODONS[0]])
+        if STOP_CODONS[1] in dna:
+            a.append(dna[START_CODON:STOP_CODONS[1]])
+        if STOP_CODONS[2] in dna:
+            a.append(dna[START_CODON:STOP_CODONS[2]])
+        else:
+                return ''
+    else: 
+        return ""
+    for b in a:
+        if int(len(b))%3 == 0:
+            return str(b)
+        else:
+            return ''
+        
+def findRegion(dna):
+    startcodon = "atg"
+    stopcodon = ["taa", "tag", "tga"]
+    position = 0
+    if dna.find(startcodon) != -1:
+        dna = dna[(dna.find(startcodon) + 3): ]
+    else:
+        return ""
+    for nucleobase in dna:
+        CODONS_YO = ""
+        if position % 3 == 0 and dna[position:position + 3] in stopcodon:
+            CODONS_YO = dna[ :position]
+        else:
+            position += 1
+    return CODONS_YO
+
+print findRegion('aattatgcccgggtttaaataaatagccctgattt')
+        

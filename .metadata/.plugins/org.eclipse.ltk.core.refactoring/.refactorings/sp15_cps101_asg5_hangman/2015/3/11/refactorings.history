@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;sp15_cps101_asg5_hangman/src/states.txt&apos; to &apos;typesofpizza&apos;" description="Rename resource &apos;states.txt&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/states.txt" name="typesofpizza" stamp="1426301773232" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;sp15_cps101_asg5_hangman/src/typesofpizza&apos; to &apos;states.txt&apos;" description="Rename resource &apos;typesofpizza&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/typesofpizza" name="states.txt" stamp="1426302085899" updateReferences="true"/>
+</session>

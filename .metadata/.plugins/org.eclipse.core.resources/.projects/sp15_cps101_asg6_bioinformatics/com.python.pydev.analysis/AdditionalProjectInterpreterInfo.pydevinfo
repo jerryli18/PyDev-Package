@@ -1,0 +1,38 @@
+-- VERSION_4
+-- START DISKCACHE
+C:\Users\Jerry\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\sp15_cps101_asg6_bioinformatics\com.python.pydev.analysis\v2_indexcache
+InputConsole|1427421136683|C:\Users\Jerry\workspace\sp15_cps101_asg6_bioinformatics\src\InputConsole.py
+InputGUI|1427421136713|C:\Users\Jerry\workspace\sp15_cps101_asg6_bioinformatics\src\InputGUI.py
+Bioinformatics|1427425977277|C:\Users\Jerry\workspace\sp15_cps101_asg6_bioinformatics\src\Bioinformatics.py
+-- END DISKCACHE
+-- START DICTIONARY
+3
+3=InputConsole
+2=InputGUI
+1=Bioinformatics
+-- END DICTIONARY
+-- START TREE 1
+19
+!<m|0|
+ami|1|AMINO_ACIDS!11@
+btn|2|btn2!19@btn1!19@
+che|1|checkOutput!18@
+cod|1|CODONS!11@
+dic|0|
+dna|2|DNA_protein!10@dna!27@
+exp|1|expected!19@
+fin|1|findRegion!10@
+fra|1|frame!19@
+get|2|getFileAsString!18@getFile!18@
+pos|0|
+rev|1|reversecomp!10@
+roo|1|root!19@
+sho|2|showText!18@showInput!18@
+sta|1|START_CODON!11@
+sto|1|STOP_CODONS!11@
+tex|1|text!19@
+tra|2|translate!18@translateDNAtoProtein!10@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

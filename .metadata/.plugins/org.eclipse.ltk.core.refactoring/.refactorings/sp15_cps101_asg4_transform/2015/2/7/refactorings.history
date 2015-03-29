@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;sp15_cps101_asg4_transform/data/Untitled 2&apos; to &apos;simple.upper&apos;" description="Rename resource &apos;Untitled 2&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="data/Untitled 2" name="simple.upper" stamp="1423526704494" updateReferences="true"/>
+</session>

@@ -1,0 +1,22 @@
+-- VERSION_4
+-- START DISKCACHE
+C:\Users\Jerry\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\sp15_cps101_asg3_picture\com.python.pydev.analysis\v2_indexcache
+Picture|1423024993236|C:\Users\Jerry\workspace\sp15_cps101_asg3_picture\src\Picture.py
+-- END DISKCACHE
+-- START DICTIONARY
+1
+1=Picture
+-- END DICTIONARY
+-- START TREE 1
+7
+clo|2|cloud!10@cloud2!10@
+dra|1|draw!10@
+flo|1|flowerCenter!10@
+lea|1|leaf!10@
+spi|2|spiral!10@spiral2!10@
+ste|1|stem!10@
+wn|1|wn!11@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

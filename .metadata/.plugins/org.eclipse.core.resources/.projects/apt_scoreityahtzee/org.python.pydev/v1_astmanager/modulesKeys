@@ -1,0 +1,5 @@
+MODULES_MANAGER_V2
+ETester|C:\Users\Jerry\workspace\apt_scoreityahtzee\src\ETester.py
+Parse|C:\Users\Jerry\workspace\apt_scoreityahtzee\src\Parse.py
+ScoreIt|C:\Users\Jerry\workspace\apt_scoreityahtzee\src\ScoreIt.py
+StoppableThread|C:\Users\Jerry\workspace\apt_scoreityahtzee\src\StoppableThread.py

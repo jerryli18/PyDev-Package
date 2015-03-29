@@ -1,0 +1,19 @@
+-- VERSION_4
+-- START DISKCACHE
+C:\Users\Jerry\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\spring15_compsci101_lab05\com.python.pydev.analysis\v2_indexcache
+fileFun|1423167852103|C:\Users\Jerry\workspace\spring15_compsci101_lab05\src\fileFun.py
+-- END DISKCACHE
+-- START DICTIONARY
+1
+1=fileFun
+-- END DICTIONARY
+-- START TREE 1
+4
+lis|1|listAthletes!10@
+mai|1|main!10@
+num|3|numberLines!10@numberOfWord!10@numberWords!10@
+pri|1|printLines!10@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<settings settings_version="1.0">
+<sites>
+<site siteurl="http://www.cs.duke.edu/courses/compsci101/spring15/snarf/snarf.xml"/>
+</sites>
+<history>
+<install date="01.15.2015.03.21.31" location="C:\Users\Jerry\workspace\spring15_compsci101_lab01" name="spring15_compsci101_lab01" publisher="SHR" version="1.0"/>
+<install date="01.20.2015.11.24.24" location="C:\Users\Jerry\workspace\apt_bmi" name="apt_bmi" publisher="rodger" version="1.0"/>
+<install date="01.20.2015.11.54.52" location="C:\Users\Jerry\workspace\apt_bogsquare" name="apt_bogsquare" publisher="rodger" version="1.0"/>
+<install date="01.22.2015.03.06.21" location="C:\Users\Jerry\workspace\apt_gravity" name="apt_gravity" publisher="rodger" version="1.0"/>
+<install date="01.22.2015.03.21.50" location="C:\Users\Jerry\workspace\apt_perimeter" name="apt_perimeter" publisher="rodger" version="1.0"/>
+<install date="01.22.2015.03.32.16" location="C:\Users\Jerry\workspace\apt_totalweight" name="apt_totalweight" publisher="rodger" version="1.0"/>
+<install date="01.22.2015.03.45.19" location="C:\Users\Jerry\workspace\apt_pancakes" name="apt_pancakes" publisher="rodger" version="1.0"/>
+<install date="01.28.2015.10.52.06" location="C:\Users\Jerry\workspace\apt_laundry" name="apt_laundry" publisher="rodger" version="1.0"/>
+<install date="01.28.2015.11.33.43" location="C:\Users\Jerry\workspace\apt_removemiddle" name="apt_removemiddle" publisher="rodger" version="1.0"/>
+<install date="01.29.2015.12.20.05" location="C:\Users\Jerry\workspace\apt_grayscale" name="apt_grayscale" publisher="rodger" version="1.0"/>
+<install date="01.29.2015.07.13.43" location="C:\Users\Jerry\workspace\apt_lastnamefirst" name="apt_lastnamefirst" publisher="rodger" version="1.0"/>
+<install date="01.29.2015.08.06.02" location="C:\Users\Jerry\workspace\apt_cgratio" name="apt_cgratio" publisher="rodger" version="1.0"/>
+<install date="01.29.2015.08.14.55" location="C:\Users\Jerry\workspace\apt_emphasize" name="apt_emphasize" publisher="rodger" version="1.0"/>
+<install date="01.29.2015.08.55.34" location="C:\Users\Jerry\workspace\apt_acronym" name="apt_acronym" publisher="rodger" version="1.0"/>
+<install date="02.03.2015.02.23.19" location="C:\Users\Jerry\workspace\spring15_lect0203" name="spring15_lect0203" publisher="rodger" version="1.0"/>
+<install date="02.03.2015.09.14.38" location="C:\Users\Jerry\workspace\sp15_cps101_asg3_picture" name="sp15_cps101_asg3_picture" publisher="rodger" version="1.0"/>
+<install date="02.05.2015.03.24.13" location="C:\Users\Jerry\workspace\spring15_compsci101_lab05" name="spring15_compsci101_lab05" publisher="SHR" version="1.0"/>
+<install date="02.05.2015.08.05.45" location="C:\Users\Jerry\workspace\apt_bagels" name="apt_bagels" publisher="rodger" version="1.0"/>
+<install date="02.05.2015.08.17.30" location="C:\Users\Jerry\workspace\apt_britishchange" name="apt_britishchange" publisher="rodger" version="1.0"/>
+<install date="02.05.2015.08.27.11" location="C:\Users\Jerry\workspace\apt_countappearances" name="apt_countappearances" publisher="rodger" version="1.0"/>
+<install date="02.05.2015.08.58.46" location="C:\Users\Jerry\workspace\apt_isspecial" name="apt_isspecial" publisher="rodger" version="1.0"/>
+<install date="02.05.2015.09.15.14" location="C:\Users\Jerry\workspace\apt_piglatin" name="apt_piglatin" publisher="rodger" version="1.0"/>
+<install date="02.05.2015.09.38.43" location="C:\Users\Jerry\workspace\apt_scoreityahtzee" name="apt_scoreityahtzee" publisher="rodger" version="1.0"/>
+<install date="02.05.2015.10.08.34" location="C:\Users\Jerry\workspace\apt_txtmsg" name="apt_txtmsg" publisher="rodger" version="1.0"/>
+<install date="02.05.2015.10.56.01" location="C:\Users\Jerry\workspace\apt_replacefirsthalf" name="apt_replacefirsthalf" publisher="rodger" version="1.0"/>
+<install date="02.09.2015.06.28.59" location="C:\Users\Jerry\workspace\sp15_cps101_asg4_transform" name="sp15_cps101_asg4_transform" publisher="rodger" version="1.0"/>
+<install date="02.19.2015.03.17.38" location="C:\Users\Jerry\workspace\spring15_compsci101_lab5" name="spring15_compsci101_lab5" publisher="SHR" version="1.0"/>
+<install date="02.19.2015.03.58.25" location="C:\Users\Jerry\workspace\apt_silverdistance" name="apt_silverdistance" publisher="SHR" version="1.0"/>
+<install date="02.24.2015.06.20.25" location="C:\Users\Jerry\workspace\apt_sandwichbar" name="apt_sandwichbar" publisher="rodger" version="1.0"/>
+<install date="02.24.2015.08.04.09" location="C:\Users\Jerry\workspace\apt_carrotboxes" name="apt_carrotboxes" publisher="SHR" version="1.0"/>
+<install date="02.24.2015.08.43.06" location="C:\Users\Jerry\workspace\apt_circlescountry" name="apt_circlescountry" publisher="SHR" version="1.0"/>
+<install date="02.24.2015.09.28.45" location="C:\Users\Jerry\workspace\apt_colorfultiles" name="apt_colorfultiles" publisher="SHR" version="1.0"/>
+<install date="02.24.2015.10.19.17" location="C:\Users\Jerry\workspace\apt_mincostpalindrome" name="apt_mincostpalindrome" publisher="SHR" version="1.0"/>
+<install date="03.03.2015.01.44.00" location="C:\Users\Jerry\workspace\spring15_lect0303" name="spring15_lect0303" publisher="rodger" version="1.0"/>
+<install date="03.03.2015.10.20.59" location="C:\Users\Jerry\workspace\apt_eatinggood" name="apt_eatinggood" publisher="SHR" version="1.0"/>
+<install date="03.03.2015.10.40.45" location="C:\Users\Jerry\workspace\apt_anagramfree" name="apt_anagramfree" publisher="SHR" version="1.0"/>
+<install date="03.03.2015.11.12.40" location="C:\Users\Jerry\workspace\apt_startletters" name="apt_startletters" publisher="SHR" version="1.0"/>
+<install date="03.03.2015.11.18.24" location="C:\Users\Jerry\workspace\apt_fortunatenumbers" name="apt_fortunatenumbers" publisher="SHR" version="1.0"/>
+<install date="03.03.2015.11.36.13" location="C:\Users\Jerry\workspace\apt_trophyshelf" name="apt_trophyshelf" publisher="SHR" version="1.0"/>
+<install date="03.03.2015.11.42.11" location="C:\Users\Jerry\workspace\apt_alliteration" name="apt_alliteration" publisher="SHR" version="1.0"/>
+<install date="03.04.2015.07.00.53" location="C:\Users\Jerry\workspace\sp15_cps101_asg5_hangman" name="sp15_cps101_asg5_hangman" publisher="rodger" version="1.0"/>
+<install date="03.05.2015.01.49.06" location="C:\Users\Jerry\workspace\spring15_lect0305" name="spring15_lect0305" publisher="rodger" version="1.0"/>
+<install date="03.05.2015.03.04.43" location="C:\Users\Jerry\workspace\apt_chocolatebar" name="apt_chocolatebar" publisher="SHR" version="1.0"/>
+<install date="03.05.2015.03.30.54" location="C:\Users\Jerry\workspace\spring15_compsci101_lab07" name="spring15_compsci101_lab07" publisher="SHR" version="1.0"/>
+<install date="03.17.2015.10.51.52" location="C:\Users\Jerry\workspace\apt_uniquenames" name="apt_uniquenames" publisher="SHR" version="1.0"/>
+<install date="03.17.2015.11.06.58" location="C:\Users\Jerry\workspace\apt_worldcomposition" name="apt_worldcomposition" publisher="SHR" version="1.0"/>
+<install date="03.24.2015.03.58.05" location="C:\Users\Jerry\workspace\apt_dnareversecomp" name="apt_dnareversecomp" publisher="SHR" version="1.0"/>
+<install date="03.24.2015.04.27.48" location="C:\Users\Jerry\workspace\apt_dnacodingregion" name="apt_dnacodingregion" publisher="SHR" version="1.0"/>
+<install date="03.24.2015.11.01.48" location="C:\Users\Jerry\workspace\apt_pikachu" name="apt_pikachu" publisher="SHR" version="1.0"/>
+<install date="03.26.2015.03.17.31" location="C:\Users\Jerry\workspace\spring15_compsci101_lab09" name="spring15_compsci101_lab09" publisher="SHR" version="1.0"/>
+<install date="03.26.2015.04.02.53" location="C:\Users\Jerry\workspace\apt_membercheck" name="apt_membercheck" publisher="SHR" version="1.0"/>
+<install date="03.26.2015.09.50.20" location="C:\Users\Jerry\workspace\sp15_cps101_asg6_bioinformatics" name="sp15_cps101_asg6_bioinformatics" publisher="rodger" version="1.0"/>
+<install date="03.26.2015.09.50.42" location="C:\Users\Jerry\workspace\sp15_cps101_asg6_bioinformatics" name="sp15_cps101_asg6_bioinformatics" publisher="rodger" version="1.0"/>
+<install date="03.26.2015.09.50.45" location="C:\Users\Jerry\workspace\sp15_cps101_asg6_bioinformatics" name="sp15_cps101_asg6_bioinformatics" publisher="rodger" version="1.0"/>
+</history>
+</settings>

@@ -1,0 +1,15 @@
+'''
+Created on Mar 24, 2015
+
+@author: Jerry
+'''
+from sympy.mpmath.libmp.libelefun import CHUD_A
+def check(word):
+    """
+    return String based on parameter
+    word, a String
+    """
+    if word[0:2] == 'pi' or word[0:2] == 'ka':
+        word = word.remove[0:2]
+    if word[0:3] == 'chu':
+        

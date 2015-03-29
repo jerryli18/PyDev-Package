@@ -1,0 +1,5 @@
+MODULES_MANAGER_V2
+ETester|C:\Users\Jerry\workspace\apt_laundry\src\ETester.py
+Laundry|C:\Users\Jerry\workspace\apt_laundry\src\Laundry.py
+Parse|C:\Users\Jerry\workspace\apt_laundry\src\Parse.py
+StoppableThread|C:\Users\Jerry\workspace\apt_laundry\src\StoppableThread.py

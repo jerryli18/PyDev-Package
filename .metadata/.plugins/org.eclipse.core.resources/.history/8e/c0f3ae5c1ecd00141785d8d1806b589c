@@ -1,0 +1,46 @@
+'''
+Created on Mar 17, 2015
+
+@author: Jerry
+'''
+def score(listA,listB,listC):
+    """
+    return String based on three string list parameters
+    """
+    
+
+    setA = set()
+    setB = set()
+    setC = set()
+    pointsA = 0
+    pointsB = 0
+    pointsC = 0
+    [setA.add(item) for item in listA]
+    [setB.add(item) for item in listB]
+    [setC.add(item) for item in listC]
+    for item in setA:
+        if item not in setB.union(setC):
+            pointsA += 3
+        elif item in (setB.symmetric_difference(setC)):
+            pointsA += 2
+        elif item in (setB.intersection(setC)):
+            pointsA += 1
+    for item in setB:
+        if item not in setA.union(setC):
+            pointsB += 3
+        elif item in (setA.symmetric_difference(setC)):
+            pointsB += 2
+        elif item in (setA.intersection(setC)):
+            pointsB += 1
+    for item in setC:
+        if item not in setB.union(setA):
+            pointsC += 3
+        elif item in (setB.symmetric_difference(setA)):
+            pointsC += 2
+        elif item in (setB.intersection(setA)):
+            pointsC += 1
+    pointsA = str(pointsA)
+    pointsB = str(pointsB)
+    pointsC = str(pointsC)
+    return pointsA + "/" + pointsB + "/" + pointsC0
+    

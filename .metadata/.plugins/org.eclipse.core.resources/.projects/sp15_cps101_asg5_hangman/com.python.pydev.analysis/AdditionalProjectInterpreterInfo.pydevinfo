@@ -1,0 +1,26 @@
+-- VERSION_4
+-- START DISKCACHE
+C:\Users\Jerry\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\sp15_cps101_asg5_hangman\com.python.pydev.analysis\v2_indexcache
+Hangdemo|1425527993301|C:\Users\Jerry\workspace\sp15_cps101_asg5_hangman\src\Hangdemo.py
+Hangman|1426564758304|C:\Users\Jerry\workspace\sp15_cps101_asg5_hangman\src\Hangman.py
+GuessNumber|1425513651870|C:\Users\Jerry\workspace\sp15_cps101_asg5_hangman\src\GuessNumber.py
+-- END DISKCACHE
+-- START DICTIONARY
+3
+2=Hangdemo
+1=Hangman
+3=GuessNumber
+-- END DICTIONARY
+-- START TREE 1
+7
+cat|1|category!10@
+get|3|get_words!18@get_words!10@get_status!26@
+loa|2|load_lines!18@load_lines!10@
+mis|1|misses!10@
+num|1|numberOfguesses!10@
+pla|2|play_game_computerguess!26@play_game_humanguess!26@
+use|2|user!18@user!10@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

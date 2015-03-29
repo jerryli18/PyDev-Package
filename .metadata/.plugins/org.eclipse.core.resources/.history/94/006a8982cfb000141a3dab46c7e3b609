@@ -1,0 +1,8 @@
+'''
+Created on Feb 9, 2015
+
+@author: Jerry
+'''
+def recognize(words):
+    if words.find("-ay") != -1:
+        

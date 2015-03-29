@@ -1,0 +1,26 @@
+-- VERSION_4
+-- START DISKCACHE
+C:\Users\Jerry\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\spring15_compsci101_lab07\com.python.pydev.analysis\v2_indexcache
+ImageProcessing|1425589741258|C:\Users\Jerry\workspace\spring15_compsci101_lab07\src\ImageProcessing.py
+-- END DISKCACHE
+-- START DICTIONARY
+1
+1=ImageProcessing
+-- END DICTIONARY
+-- START TREE 1
+11
+app|1|apply_filter!10@
+bri|1|brighten!10@
+dar|1|darken!10@
+den|3|denoise2!10@denoise3!10@denoise!10@
+gra|1|gray_scale!10@
+ide|1|identity!10@
+inv|1|invert!10@
+loa|1|load_and_go!10@
+ope|1|open_image!10@
+pos|1|posterize!10@
+sol|1|solarize!10@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

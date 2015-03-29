@@ -1,0 +1,14 @@
+'''
+Created on Feb 9, 2015
+
+@author: Jerry
+'''
+def recognize(words):
+    count = 0
+    for word in words:
+        if word.endswith("ay"):
+            count += 1
+        
+    
+    if words.endswith("-ay"):
+        

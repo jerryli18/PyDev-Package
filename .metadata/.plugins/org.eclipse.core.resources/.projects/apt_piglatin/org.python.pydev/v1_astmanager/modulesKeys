@@ -1,0 +1,5 @@
+MODULES_MANAGER_V2
+ETester|C:\Users\Jerry\workspace\apt_piglatin\src\ETester.py
+Parse|C:\Users\Jerry\workspace\apt_piglatin\src\Parse.py
+Piglatin|C:\Users\Jerry\workspace\apt_piglatin\src\Piglatin.py
+StoppableThread|C:\Users\Jerry\workspace\apt_piglatin\src\StoppableThread.py

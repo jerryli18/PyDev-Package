@@ -1,0 +1,5 @@
+MODULES_MANAGER_V2
+ETester|C:\Users\Jerry\workspace\apt_perimeter\src\ETester.py
+Parse|C:\Users\Jerry\workspace\apt_perimeter\src\Parse.py
+Perimeter|C:\Users\Jerry\workspace\apt_perimeter\src\Perimeter.py
+StoppableThread|C:\Users\Jerry\workspace\apt_perimeter\src\StoppableThread.py

@@ -1,0 +1,5 @@
+MODULES_MANAGER_V2
+ETester|C:\Users\Jerry\workspace\apt_removemiddle\src\ETester.py
+Parse|C:\Users\Jerry\workspace\apt_removemiddle\src\Parse.py
+RemoveMiddle|C:\Users\Jerry\workspace\apt_removemiddle\src\RemoveMiddle.py
+StoppableThread|C:\Users\Jerry\workspace\apt_removemiddle\src\StoppableThread.py
